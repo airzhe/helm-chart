@@ -9,6 +9,6 @@ entries:
     name: helloworld
     type: application
     urls:
-    - https://helloworlde.github.io/helm-chart/helloworld-0.1.0.tgz
+    - https://airzhe.github.io/helm-chart/helloworld-0.1.0.tgz
     version: 0.1.0
 generated: "2020-05-15T01:53:47.785760888+08:00"
